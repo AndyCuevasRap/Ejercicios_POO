@@ -17,7 +17,7 @@ class Nota():
     def Aprobación(self):
       
         if self.Nota >=3:
-            print("Felicidaes, haz aprobado")  
+            print("Felicidades, haz aprobado")  
         else:
             print("Lamentablemente, haz sido reprobado")
 
